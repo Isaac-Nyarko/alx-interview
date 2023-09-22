@@ -1,4 +1,5 @@
-Making Change
+<h1>Making Change</h1>
+
 This project contains interview coding challenges.
 
 Tasks To Complete
